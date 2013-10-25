@@ -1,6 +1,9 @@
 {
-  "name": "nsdcss",
-  "repo": "nsdcss/nsdcss",
+  "name": "base",
+  "repo": "nsdcss/base",
+  "styles": [
+    "base.less"
+  ],
   "version": "0.1.0",
   "author": "Nikolaj Sokolowski",
   "license": "MIT"
