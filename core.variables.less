@@ -1,0 +1,41 @@
+// CORE-VARIABLES
+// ==========
+
+// These variables are needed almost everywhere in the framework
+
+
+// Config
+// ----------
+@cf__framework-prefix:                                                 _;
+
+
+// Utility
+// ----------
+@u__multiplier--xs:                                                    extrasmall, .33;
+@u__multiplier--s:                                                     s, .5;
+@u__multiplier--n:                                                     default, 1;
+@u__multiplier--m:                                                     m, 2;
+@u__multiplier--l:                                                     l, 3;
+@u__multiplier--xl:                                                    xl, 5;
+@u__multiplier--xxl:                                                   xxl, 8;
+@u__multiplier--zero:                                                  zero, 0;
+@u__multiplier-list:                                                   @u__multiplier--s, @u__multiplier--n, @u__multiplier--m, @u__multiplier--l, @u__multiplier--xl, @u__multiplier--xxl, @u__multiplier--zero;
+@u__width--1-2:                                                        one-half, 50%;
+@u__width--1-3:                                                        one-third, 33.33%;
+@u__width--1-4:                                                        one-quarter, 25%;
+@u__width--1-5:                                                        one-fifth, 20%;
+@u__width--2-3:                                                        two-thirds, 66.67%;
+@u__width--2-5:                                                        two-fifths, 40%;
+@u__width--3-4:                                                        three-quarters, 75%;
+@u__width--3-5:                                                        three-fifths, 60%;
+@u__width--4-5:                                                        four-fifths, 80%;
+@u__width-list:                                                        @u__width--1-2, @u__width--1-3, @u__width--1-4, @u__width--1-5, @u__width--2-3, @u__width--2-5, @u__width--3-4, @u__width--3-5, @u__width--4-5;
+
+
+// Breakpoints
+// ----------
+@bp__tablet:                                                           tablet, 700, 699;
+@bp__lap:                                                              lap, 900, 899;
+@bp__desk:                                                             desk, 1024, 1023;
+@bp__desk-wide:                                                        desk-wide, 1200, 1199;
+@bp__bp-list:                                                          @bp__tablet, @bp__lap, @bp__desk, @bp__desk-wide;
