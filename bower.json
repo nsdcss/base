@@ -1,5 +1,5 @@
 {
-  "name": "nsdcss.core.variables",
+  "name": "nsdcss-core-variables",
   "version": "0.1.0",
   "main": "core.variables.less",
   "author": "Nikolaj Sokolowski",
