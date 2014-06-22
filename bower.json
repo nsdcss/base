@@ -1,11 +1,7 @@
 {
   "name": "nsdcss-core-variables",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "main": "core.variables.less",
   "author": "Nikolaj Sokolowski",
-  "license": "MIT",
-  "nsdcss": {
-    "order": "000",
-    "scope": "framework"
-  }
+  "license": "MIT"
 }
