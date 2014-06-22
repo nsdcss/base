@@ -5,7 +5,7 @@
   "author": "Nikolaj Sokolowski",
   "license": "MIT",
   "nsdcss": {
-	    "order": "000",
-		"scope": "framework"
-  	}
+    "order": "000",
+    "scope": "framework"
   }
+}
