@@ -1,8 +1,4 @@
 {
   "order": "000",
-<<<<<<< HEAD
-  "scope": "shared"
-=======
   "scope": "framework"
->>>>>>> 1a7d92811044a989c009433233e59bbe452502d7
 }
